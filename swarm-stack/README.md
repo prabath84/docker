@@ -1,6 +1,6 @@
 # Swarm stack
 
-Python flask app:
+Python flask app: dd
 - stores counter in redis.
 - returns count and hostname of contriner servicing request
 
